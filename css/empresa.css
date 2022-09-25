@@ -1,0 +1,52 @@
+body{
+    background: #ffffff;
+
+}
+
+#logo2{
+    height: 100px;
+
+}
+
+#menu{
+    font-size: 25px;
+    margin: 10px 20px;
+}
+
+#logo{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 33px;
+}
+
+#quienessomos{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+
+
+}
+
+section h1{
+    text-align: center;
+}
+
+#equipo{
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#p1{
+    color: #615638;
+}
+
+#p2{
+    color:#F3C950;
+}
+
+#aju{
+    margin: 0px 93px;
+}

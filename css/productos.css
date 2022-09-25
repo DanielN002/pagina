@@ -1,0 +1,44 @@
+body{
+    background: #ffffff;
+}
+
+#logo2{
+    height: 100px;
+
+}
+
+#menu{
+    font-size: 25px;
+    margin: 10px 20px;
+}
+
+#logo{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 33px;
+}
+
+#gaseosas{
+    margin: 5% 0% 5% 0%;
+}
+
+#productos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#ajuste{
+    object-fit: contain;
+    height: 286px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 4%;
+}
+
+#aju{
+    margin: 0px 93px;
+}
